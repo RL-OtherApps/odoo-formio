@@ -3,8 +3,8 @@
 
 {
     'name': 'Form.io',
-    'summary': 'Build, publish and store webforms in Odoo with the "Form.io" GUI/renderer',
-    'version': '2.0',
+    'summary': 'Build, deploy and store web forms with the "Form.io" Form Builder',
+    'version': '2.2',
     'author': 'Nova Code',
     'website': 'https://www.novacode.nl',
     'license': 'LGPL-3',
@@ -48,7 +48,7 @@
 Form.io
 =======
 
-Build, publish and store webforms in Odoo with the "Form.io" GUI/renderer.
+Build, deploy and store web forms in with the "Form.io" Form Builder.
 
 http://form.io
 
